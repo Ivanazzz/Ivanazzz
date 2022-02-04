@@ -1,9 +1,4 @@
 # Hi there, I’m Ivana! 👋
-<p align="center">
-  <img src="https://github.com/Ivanazzz/Design/blob/main/banner.png" />
-</p>
-
----
 ## I am studying Information technology in industry at the Technical University of Sofia and also I'm student at SoftUni.
 - 🌱 I’m currently learning C#.
 - 💬 Ask me about anything! I'm happy to help.
