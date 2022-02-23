@@ -1,6 +1,6 @@
 # Hi there, I’m Ivana! 👋
 ## I am studying Information technology in industry at the Technical University of Sofia and also I'm student at SoftUni.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and C.
 - 💬 Ask me about anything! I'm happy to help.
 - ⚡ Fun fact: I love reading books and watching movies. 
 - 📫 Reach me: iva1100b@gmail.com
