@@ -1,6 +1,6 @@
 # Hi there, I’m Ivana! 👋
 ## I am studying Information technology in industry at the Technical University of Sofia and also I'm student at SoftUni.
-- 🌱 I’m currently learning C# and C.
+- 🌱 I’m currently learning C# and Java.
 - 💬 Ask me about anything! I'm happy to help.
 - 📫 Reach me: iva1100b@gmail.com
 
@@ -19,6 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 
