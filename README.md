@@ -1,4 +1,4 @@
-# Hi there, I’m Ivana! 👋
+# Hi there, I’m Ivana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 ## I am studying Information technology in industry at the Technical University of Sofia and also I'm student at SoftUni.
 - 🌱 I’m currently learning C# and Java.
 - 💬 Ask me about anything! I'm happy to help.
