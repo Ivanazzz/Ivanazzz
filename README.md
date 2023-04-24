@@ -9,9 +9,9 @@
 <br />
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ivanazzz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ivana_b.ly/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivana-boyukliyska-42475126a/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ivanazzz) 
 
-<br />
 
 ## Languages and tools:
 
@@ -20,13 +20,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a></a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 
-<br />
 
----
+## ⚡GitHub Stats
 
-<img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Ivanazzz&show_icons=true&theme=default&hide_border=true" />
-
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanazzz&layout=compact&hide_border=true" />
+<a href="https://github.com/Ivanazzz">
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ivanazzz&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ivanazzz&layout=compact&hide_border=true" />
+</a>
