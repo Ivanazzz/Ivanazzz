@@ -124,7 +124,7 @@ Grade: 5.94 (out of 6.00)<br /> Issue Date: 27/02/2024</th>
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4113/asp-net-advanced-february-2024" > ASP.NET Advanced </a>        |  <a href="https://softuni.bg/certificates/details/214228/2bb2fdaa"> Click here</a> | 
+| <a href="https://softuni.bg/trainings/4369/asp-net-advanced-february-2024" > ASP.NET Advanced </a>        |  <a href="https://softuni.bg/certificates/details/214228/2bb2fdaa"> Click here</a> | 
 
 Grade: 6.00 (out of 6.00)<br /> Issue Date: 22/04/2024</th>
 
